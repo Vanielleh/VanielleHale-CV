@@ -1,2 +1,2 @@
-# VanielleHale-CV
+# Vanielle Hale-CV
 Vanielle Hale CV Site
