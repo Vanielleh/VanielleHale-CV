@@ -49,11 +49,19 @@ section {
     margin: 20px;
 }
 
-footer {
+/*footer {
     background-color: #004080;
     color: black;
     padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
+}*/
+footer {
+  background: #f3f6fa;
+  padding: 2em 0 1em 0;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.03);
+  text-align: center;
+  color: #004080;
+  border-top: 3px solid #004080;
 }
